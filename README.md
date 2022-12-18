@@ -7,3 +7,5 @@ This notebook contains the following topics:
 - Disparity maps
 - Depth map from Stereo Camera
 - Depth from poinclouds
+- SIFT
+- HOG
