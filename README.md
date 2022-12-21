@@ -9,3 +9,4 @@ This notebook contains the following topics:
 - Depth from poinclouds
 - SIFT
 - HOG
+- RANSAC
